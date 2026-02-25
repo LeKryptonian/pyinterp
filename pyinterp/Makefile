@@ -1,4 +1,3 @@
-# Makefile - Honestly , how the fuck did I get this to work , I thought shit was about to be broken yet again. Note to self , FUCK MAKE
 CC       = clang
 CFLAGS   = -ObjC -fobjc-arc -O2 -Wall -Wno-unused-variable \
            -framework Foundation \
